@@ -26,3 +26,10 @@ Test reading `data/cat.pdf` file.
 > python chatgpt.py "what is my cat's name"
 Your cat's name is Muffy.
 ```
+## Addtional Note
+- `blog LangChain` [link](https://blog.langchain.dev/retrieval/)
+- `Python LangChain Docs` [link](https://python.langchain.com/docs/modules/data_connection/)
+- `LangChain Docs` [link](https://www.langchain.com/)
+- `Vector Embedding Tutorial` [link](https://www.youtube.com/watch?v=yfHHvmaMkcA)
+- `freeCodeCamp` [link](https://www.youtube.com/@freecodecamp)
+
