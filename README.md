@@ -32,4 +32,7 @@ Your cat's name is Muffy.
 - `LangChain Docs` [link](https://www.langchain.com/)
 - `Vector Embedding Tutorial` [link](https://www.youtube.com/watch?v=yfHHvmaMkcA)
 - `freeCodeCamp` [link](https://www.youtube.com/@freecodecamp)
+- `LangChain Crash Course` [link](https://www.youtube.com/watch?v=lG7Uxts9SXs)
+- `Vector Search RAG Tutorial` [link](https://www.youtube.com/watch?v=JEBDfGqrAUA)
+- `What is Retrieval Augmented Generation` [link](https://www.youtube.com/watch?v=T-D1OfcDW1M)
 
